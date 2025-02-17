@@ -1,6 +1,5 @@
 # SQL Project: Music Store Analysis
 
-Read the full detailed article <a href="https://avishek-choudhary.github.io/projects/Music%20Store.html">here</a>.
 
 ## Description
 
@@ -11,13 +10,12 @@ This project uses SQL to analyze the dataset of an online music store. The goal 
 To run this project on your machine you need to install any SQL-supported DBMS then follow the steps below:
 1. Create a database.
 2. Create tables using the schema diagram provided below.
-3. Import csv files provided in the <a href="https://github.com/avishek09/Music-Store-Analysis/tree/main/dataset">dataset</a> folder.
+3. Import csv files provided in the <a href="https://github.com/Murli43/Music_store-Analysis/tree/main/dataset">dataset</a> folder.
 
-Note: If you are using PostgreSQL then restore the <a href="https://github.com/avishek09/Music-Store-Analysis/blob/main/music_store_db_backup">backup</a> file of the database and save yourself some time.
 
 ## Schema Diagram
 
-![Schema Diagram](https://github.com/avishek09/Music-Store-Analysis/assets/75924699/993e1d5d-0ae0-4034-9e20-202a2916c84c)
+![Schema Diagram](https://github.com/Murli43/Music_store-Analysis/blob/main/MusicDatabaseSchema.png)
 
 <!-- ## Usage
 
@@ -31,8 +29,8 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 
 ## Database and Tools
 
-* Postgre SQL
-* PgAdmin4
+* MS SQL Server
+* SQL Server Management Studio
 
 ## Credits
 
@@ -46,8 +44,8 @@ You can use this dataset to build your own project and practice your SQL skills.
 
 ## Badges
 
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
+![MS SQL SERVER ](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
 
 ## Questions Answered
 
